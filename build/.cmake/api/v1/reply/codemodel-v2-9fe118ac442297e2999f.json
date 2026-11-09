@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MixedCpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "leet_206_reverseList_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leet_206_reverseList_c-Debug-0ff4e679ea36d377c264.json",
+					"name" : "leet_206_reverseList_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leet_206_reverseList_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leet_206_reverseList_cpp-Debug-791c019aa05158596745.json",
+					"name" : "leet_206_reverseList_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mon_date_c_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mon_date_c_c-Debug-e325d2b01c1fe0ecea87.json",
+					"name" : "mon_date_c_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mon_date_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mon_date_cpp-Debug-22d9f598213c4199ce5a.json",
+					"name" : "mon_date_cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/W3_Cpp/build",
+		"source" : "D:/Projects/W3_Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

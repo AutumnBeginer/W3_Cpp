@@ -1,0 +1,22 @@
+CMakeFiles/leet_206_reverseList_c.dir/codes/leetCodes/leet_206_reverseList.c.obj: \
+ D:\Projects\W3_Cpp\codes\leetCodes\leet_206_reverseList.c \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ D:/Dev/SDK/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/limits.h \
+ D:/Dev/SDK/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/syslimits.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/Dev/SDK/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/mm_malloc.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/errno.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/Dev/SDK/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h

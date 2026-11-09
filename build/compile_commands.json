@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Projects/W3_Cpp/build",
+  "command": "D:\\Dev\\SDK\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\leet_206_reverseList_c.dir\\codes\\leetCodes\\leet_206_reverseList.c.obj -c D:\\Projects\\W3_Cpp\\codes\\leetCodes\\leet_206_reverseList.c",
+  "file": "D:/Projects/W3_Cpp/codes/leetCodes/leet_206_reverseList.c",
+  "output": "CMakeFiles/leet_206_reverseList_c.dir/codes/leetCodes/leet_206_reverseList.c.obj"
+},
+{
+  "directory": "D:/Projects/W3_Cpp/build",
+  "command": "D:\\Dev\\SDK\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\leet_206_reverseList_cpp.dir\\codes\\leetCodes\\leet_206_reverseList.cpp.obj -c D:\\Projects\\W3_Cpp\\codes\\leetCodes\\leet_206_reverseList.cpp",
+  "file": "D:/Projects/W3_Cpp/codes/leetCodes/leet_206_reverseList.cpp",
+  "output": "CMakeFiles/leet_206_reverseList_cpp.dir/codes/leetCodes/leet_206_reverseList.cpp.obj"
+},
+{
+  "directory": "D:/Projects/W3_Cpp/build",
+  "command": "D:\\Dev\\SDK\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\mon_date_cpp.dir\\codes\\mon_date.cpp.obj -c D:\\Projects\\W3_Cpp\\codes\\mon_date.cpp",
+  "file": "D:/Projects/W3_Cpp/codes/mon_date.cpp",
+  "output": "CMakeFiles/mon_date_cpp.dir/codes/mon_date.cpp.obj"
+},
+{
+  "directory": "D:/Projects/W3_Cpp/build",
+  "command": "D:\\Dev\\SDK\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\mon_date_c_c.dir\\codes\\mon_date_c.c.obj -c D:\\Projects\\W3_Cpp\\codes\\mon_date_c.c",
+  "file": "D:/Projects/W3_Cpp/codes/mon_date_c.c",
+  "output": "CMakeFiles/mon_date_c_c.dir/codes/mon_date_c.c.obj"
+}
+]
