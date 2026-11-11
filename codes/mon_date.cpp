@@ -27,8 +27,15 @@ public:
         {
             cerr << "[警告] 非法日期 " << y << "-" << m << "-" << d
                  << "，已回退到 1970-01-01\n";
+             // ★ 手动回退成员变量
+            year_ = 1970;
+            month_ = 1;
+            day_ = 1;
         }
         cout << "[构造]" << year_ << "-" << month_ << "-" << day_ << endl;
+    }
+    ~Date() {
+        cout << "[析构] " << year_ << "-" << month_ << "-" << day_ << endl;
     }
     // 上周四的 const 成员函数，今天直接复用
     void print() const
@@ -47,6 +54,8 @@ public:
         else
             cerr << "[拒绝] 月份 " << m << " 非法\n";
     }
+
+    
 };
 
 int main()

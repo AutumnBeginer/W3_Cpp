@@ -1,0 +1,30 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.enableAutomaticCMakeListsUpdate": false,
+    "cmake.automaticReconfigure": false,
+
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.executorMap": {
+        "c":   "cd $dir && chcp 65001 >nul && gcc -std=c11 -g -Wall -Wextra -finput-charset=UTF-8 -fexec-charset=UTF-8 \"$fileName\" -o \"$fileNameWithoutExt.exe\" && .\\$fileNameWithoutExt.exe",
+        "cpp": "cd $dir && chcp 65001 >nul && g++ -std=c++17 -g -Wall -Wextra -finput-charset=UTF-8 -fexec-charset=UTF-8 \"$fileName\" -o \"$fileNameWithoutExt.exe\" && .\\$fileNameWithoutExt.exe"
+    },
+
+    "c-cpp-compile-run.c-compiler":  "D:/Dev/SDK/mingw64/bin/gcc.exe",
+    "c-cpp-compile-run.cpp-compiler":"D:/Dev/SDK/mingw64/bin/g++.exe",
+    "c-cpp-compile-run.c-flags":    ["-std=c11",  "-g3", "-Wall", "-Wextra", "-finput-charset=UTF-8", "-fexec-charset=UTF-8"],
+    "c-cpp-compile-run.cpp-flags":  ["-std=c++17","-g3", "-Wall", "-Wextra", "-finput-charset=UTF-8", "-fexec-charset=UTF-8"],
+    "c-cpp-compile-run.save-before-compile": true,
+
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": false,
+    "[c]":   { "files.encoding": "utf8" },
+    "[cpp]": { "files.encoding": "utf8" },
+
+    "C_Cpp.default.compilerPath": "D:/Dev/SDK/mingw64/bin/g++.exe",
+    "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.cppStandard": "c++17"
+}

@@ -1,3 +1,0 @@
-D:\Dev\SDK\mingw64\bin\cmake.exe -E rm -f CMakeFiles\mon_date_c_c.dir/objects.a
-D:\Dev\SDK\mingw64\bin\ar.exe qc CMakeFiles\mon_date_c_c.dir/objects.a @CMakeFiles\mon_date_c_c.dir\objects1.rsp
-D:\Dev\SDK\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\mon_date_c_c.dir/objects.a -Wl,--no-whole-archive -o mon_date_c_c.exe -Wl,--out-implib,libmon_date_c_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mon_date_c_c.dir\linkLibs.rsp
